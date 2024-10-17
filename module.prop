@@ -1,6 +1,6 @@
-id=geoxzram
-name=GeoXzraM
-version=2.0
-versionCode=2
+id=ZramLz4Enable
+name=Zram Lz4 Enable
+version=1.0
+versionCode=1
 author=ggeo15
 description=Changes the compression algorithm to LZ4 if supported.
