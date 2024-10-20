@@ -1,16 +1,16 @@
-# Positive Aspects of Using LZ4 in ZRAM:
+# positive points
 
-1. Fast performance: High compression and decompression speed.
+●Fast compression and decompression, improving system performance.
 
+●Lower latency and energy consumption. 
 
-2. Low latency: Quick access to compressed data.
+●Reduces exchanges with physical storage, extending its useful life. 
 
+# negative points: 
 
-3. Moderate CPU usage: Preserves performance on devices with lower processing power.
+●Lower compression rate, taking up more memory.
 
+ ●Less efficient on devices with a lot of RAM.
 
-4. Memory savings: Compresses data efficiently, freeing up RAM.
+ ●May increase CPU consumption on input devices. 
 
-# Negative Aspects of Using LZ4 in ZRAM:
-
-1. Lower compression ratio: Saves less space compared to algorithms like ZSTD.
